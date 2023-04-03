@@ -1,5 +1,5 @@
 # Project by Montserrat Rodríguez Cepeda :)
-the ai.py module is needed to run the code.
+- The ai.py module is needed to run the code.
 In order to complete this project I had to install openai, so that the recipes would be given by an artificial inteligence.
 First the code will ask the user to input an action so that they can eauter 1. consult the previous recipes or 2. create a new one
 The if statements are used so that the code branches and exectues a different thing depending on your decision.
